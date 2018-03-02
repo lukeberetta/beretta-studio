@@ -1,6 +1,6 @@
 # Beretta Studio
 
-Designed by Luke Beretta. 
+Designed and coded by Luke Beretta. 
 
-Visit page [here](https://lukeberetta.github.io/beretta-studio/docs/index.html)
+Visit page [here](https://lukeberetta.github.io/beretta-studio/index.html)
 
