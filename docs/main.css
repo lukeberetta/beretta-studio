@@ -39,7 +39,7 @@ section {
     align-items: center;
     padding: 100px;
     min-height: 70vh;
-    background-color: rgb(247, 247, 247);
+    background-color: #f7f7f7;
     overflow: hidden;
 }
 
@@ -95,7 +95,7 @@ hr {
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 50px;
+    padding: 10px 0 40px 0;
 }
 
 .hero .logo {
@@ -347,8 +347,21 @@ footer .text-wrapper {
 /* Responsive */
 
 @media (max-width: 768px) {
+
+    h1,h2,h3,p {
+        transform: scale(.9);
+    }
+
     section {
         padding: 20px;
+    }
+
+    .hero {
+        height: 90vh;
+    }
+
+    .hero .text-wrapper {
+        padding: 70px 0 40px 0;
     }
 
     .heading {
