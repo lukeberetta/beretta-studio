@@ -200,6 +200,12 @@ hr {
     background-position: center;
 }
 
+#belt {
+    background: url("assets/img/belt.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 #reverse {
     flex-direction: row-reverse;
 }
@@ -256,7 +262,7 @@ footer {
     align-items: center;
     justify-content: space-around;
     min-height: 40vh;
-    width: 100vw;
+    width: 100%;
     background-color: white;
     overflow: hidden;
     z-index: 99;
