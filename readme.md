@@ -2,7 +2,7 @@
 
 ## Designed and coded by Luke Beretta. 
 
-:surf:
+:ocean:
 
 A minimalist website design, representative of the Beretta Studio brand identity. 
 
