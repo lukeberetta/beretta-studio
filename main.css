@@ -31,6 +31,24 @@ nav {
     color: blue;
 }
 
+.btn-buy {
+    font-size: 15px;
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 4px 18px;
+    margin: 20px;
+    transition: all .2s;
+    font-size: 10px;
+    opacity: .8;
+}
+.btn-buy:hover {
+    background-color: black;
+    color: #fff !important;
+    border: 1px solid black;
+    transform: scale(1.04);
+    box-shadow: 0 19px 45px rgba(0,0,0,0.1), 0 15px 20px rgba(0,0,0,0.06);
+}
+
 /* Section Styling */
 
 section {
@@ -179,6 +197,7 @@ hr {
 
 .price {
     padding-top: 20px;
+    padding-bottom: 27px;
     letter-spacing: 1px;
 }
 
